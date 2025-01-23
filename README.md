@@ -23,3 +23,4 @@ The following images demonstrate the useage.
 |---------------|------------------|
 | ![show a gesture](./photo.jpg) | ![predicted gesture](./result.jpg) |
 
+The implementation-idea is based on literature review as well as this [tutorial](https://medium.com/@odil.tokhirov/how-i-built-a-hand-gesture-recognition-model-in-python-part-2-5d8987bb0756).      
