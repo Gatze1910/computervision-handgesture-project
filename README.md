@@ -1,4 +1,4 @@
-# Computervision Simple Hand-Gesture Project
+# Computer Vision Project | Hand Gesture Recognition with MediaPipe and TensorFlow
 
 This is a semester project for the lecture "computer vision" at the university of applied sciences upper austria (FH Hagenberg).
 
