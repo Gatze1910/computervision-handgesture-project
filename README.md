@@ -9,7 +9,8 @@ The goal was to implement a robust hand gesture recognition system using compute
 
 ### Informations about the files in this repo
 The generated and used data can be available if you contact Bernadette Ackerl (s2310595001@students.fh-hagenberg.at), because those huge files are saved in her Drive and not provided here in this repo.
-But if you want to generate your own data, you can use the **GenerateData.py** file.
+But if you want to generate your own data, you can use the **GenerateData.py** file. This example image should demonstrate how the data was generated: ![example data collection process](./example-b.png)
+
 
 #### Models
 The three trained models are those files where the ending is **.hdf5**
@@ -17,4 +18,8 @@ The three trained models are those files where the ending is **.hdf5**
 Those models implementations can be found in separate notebooks: **Handgesture_Model_1.ipynb**, **Handgesture_Model_2.ipynb** and **Handgesture_Model_3.ipynb**.
 
 If you want to try a model live, you can use the provided script called: **Testing.py** where you just need to adapt the path-to-model in the code.
+The following images demonstrate the useage.
+| Show a Gesture | Predicted Gesture |
+|---------------|------------------|
+| ![show a gesture](./photo.jpg) | ![predicted gesture](./result.jpg) |
 
